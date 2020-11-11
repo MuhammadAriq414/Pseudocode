@@ -1,2 +1,2 @@
-# Pseudocode
+# Pseudocode TRI MARDIANTO
 Pseudocode
